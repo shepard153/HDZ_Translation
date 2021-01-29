@@ -10,7 +10,7 @@ return [
         'button' => 'Zaloguj'
     ],
     'dashboard' => [
-        'menu' => 'Dashboard'
+        'menu' => 'Panel główny'
     ],
     'tickets' => [
         'menu' => 'Zgłoszenia',
