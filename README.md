@@ -1,5 +1,5 @@
-<h1>Polish translation for HelpDeskZ v.2.x.</h1>
-Tłumaczenie platformy HelpDeskZ w wersji v.2.x. Wszelkie poprawki lub sugestie poprawek mile widziane.
+<h1>Polish translation for HelpDeskZ v2.x.</h1>
+Tłumaczenie platformy HelpDeskZ w wersji v2.x. Wszelkie poprawki lub sugestie poprawek mile widziane.
 <br>
 <h2>Instalacja</h2>
 1. Pobierz folder "pl" i umieść go w \hdz\app\Language.<br>
